@@ -1,1 +1,5 @@
-# Project-DATA-SCIENCE-INVESTMENT-
+# Project-DATA-SCIENCE-INVESTMENT
+
+
+
+Maxime Cornu
