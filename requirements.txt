@@ -2,3 +2,5 @@ openpyxl
 matplotlib
 pandas
 numpy
+seaborn
+csv
