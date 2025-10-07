@@ -3,4 +3,6 @@ matplotlib
 pandas
 numpy
 seaborn
-csv
+fastparquet
+pyarrow
+scikit-learn
