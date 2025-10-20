@@ -6,3 +6,4 @@ seaborn
 fastparquet
 pyarrow
 scikit-learn
+ipywidgets
